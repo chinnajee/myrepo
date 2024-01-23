@@ -2,6 +2,6 @@ class Test
 {
     public static void main(String []args)
     {
-        System.out.println("My First Java Program by Chinna.");
+        System.out.println("My First Java Program by Chinnajee.");
     }
 };
